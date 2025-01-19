@@ -1,10 +1,10 @@
-👋 Hi, I'm Kai Nguyen!
-💻 I have a passion for Computer Science.
-🎓 I'm currently pursuing a major in Computer Science.
-🤝 I'm eager to collaborate on projects and research opportunities in the field of computer science.
+👋 **Hi, I'm Kai Nguyen!**  
+💻 I have a passion for **Computer Science**.  
+🎓 I'm currently pursuing a **major in Computer Science**.  
+🤝 I'm eager to collaborate on **projects** and **research opportunities** in the field of computer science.  
 
-🌐 Personal Website: nguyenlenguyen104.wixsite.com/my-site-1
-📧 Contact: nguyenlenguyen.1042006@gmail.com
+🌐 **Personal Website**: [nguyenlenguyen104.wixsite.com/my-site-1](https://nguyenlenguyen104.wixsite.com/my-site-1)  
+📧 **Contact**: [nguyenlenguyen.1042006@gmail.com](mailto:nguyenlenguyen.1042006@gmail.com)
 
 
 <!--
