@@ -1,6 +1,6 @@
 👋 **Hi, I'm Kai Nguyen!**  
 💻 I have a passion for **Computer Science**.  
-🎓 I'm currently pursuing a **major in Computer Science**.  
+🎓 I'm currently pursuing a double-major **major in Computer Science and Applied Mathematics**.  
 🤝 I'm eager to collaborate on **projects** and **research opportunities** in the field of computer science.  
 
 🌐 **Personal Website**: [nguyenlenguyen104.wixsite.com/my-site-1](https://nguyenlenguyen104.wixsite.com/my-site-1)  
