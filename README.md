@@ -4,23 +4,10 @@
 🤝 I'm eager to collaborate on **projects** and **research opportunities** in the field of computer science.  
 
 🌐 **Personal Website**: [nguyenlenguyen104](https://nguyenlenguyen104.wixsite.com/portfolio)  
-📧 **Contact**: [nguyenlenguyen.1042006@gmail.com](mailto:nguyenlenguyen.1042006@gmail.com)
-💼 **LinkedIn**: [kainguyen104](https://www.linkedin.com/in/kainguyen104/)
-📌 **Projects**:
-💰📊💻 **FinTrack** – Budgeting & Analytics App
-🩺🌐💡**Illness Insights** – Symptom Analysis Platform
-💪🏋️‍♂️🖥️**Gymaniac** – Gym & Membership Management System
-<!--
-**kainguyen104/kainguyen104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 **Contact**: [nguyenlenguyen.1042006@gmail.com](mailto:nguyenlenguyen.1042006@gmail.com)  
+💼 **LinkedIn**: [kainguyen104](https://www.linkedin.com/in/kainguyen104/)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Projects:**  
+- 💰📊💻 **FinTrack** – Budgeting & Analytics App  
+- 🩺🌐💡 **Illness Insights** – Symptom Analysis Platform  
+- 💪🏋️‍♂️🖥️ **Gymaniac** – Gym & Membership Management System  
