@@ -9,5 +9,6 @@
 
 📌 **Projects:**  
 - 💰📊💻 **FinTrack** – Budgeting & Analytics App  
-- 🩺🌐💡 **Illness Insights** – Symptom Analysis Platform  
+- 🩺🌐💡 **Illness Insights** – Symptom Analysis Platform
+- 🏪📦🧾 **Store Management System** – Inventory & Sales Management
 - 💪🏋️‍♂️🖥️ **Gymaniac** – Gym & Membership Management System  
