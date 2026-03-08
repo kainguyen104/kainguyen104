@@ -11,5 +11,5 @@
 - 💰📊💻 **FinTrack** – Budgeting & Analytics App  
 - 🩺🌐💡 **Illness Insights** – Symptom Analysis Platform
 - 🏪📦🧾 **Store Management System** – Inventory & Sales Management
-* ⚡🧠📄 **SmartFlash AI** – AI-Powered Flashcard Generator
+- ⚡🧠📄 **SmartFlash AI** – AI-Powered Flashcard Generator
 
