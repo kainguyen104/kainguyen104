@@ -8,12 +8,13 @@
 💼 **LinkedIn**: [kainguyen104](https://www.linkedin.com/in/kainguyen104/)  
 
 ## 📌 Projects
-- 🏪 **Store Management System** – Inventory & Sales Management  
-🔗 [khoai.io](https://khoai.io)
-  
-- ⚡ **SmartFlash AI** – AI-Powered Flashcard Generator
-🔗 [genflash-ai](https://genflash-ai.lovable.app)
+- 🏪 **Store Management System – Inventory & Sales Management**  
+  🔗 [khoai.io](https://khoai.io)
 
-- 💰 **FinTrack** – Budgeting & Analytics App  
-- 🩺 **Illness Insights** – Symptom Analysis Platform  
+- ⚡ **SmartFlash AI – AI-Powered Flashcard Generator**  
+  🔗 [genflash-ai](https://genflash-ai.lovable.app)
+
+- 💰 **FinTrack – Budgeting & Analytics App**
+
+- 🩺 **Illness Insights – Symptom Analysis Platform**
 
