@@ -7,9 +7,11 @@
 📧 **Contact**: [nguyenlenguyen.1042006@gmail.com](mailto:nguyenlenguyen.1042006@gmail.com)  
 💼 **LinkedIn**: [kainguyen104](https://www.linkedin.com/in/kainguyen104/)  
 
-📌 **Projects:**  
-- 💰📊💻 **FinTrack** – Budgeting & Analytics App  
-- 🩺🌐💡 **Illness Insights** – Symptom Analysis Platform
-- 🏪📦🧾 **Store Management System** – Inventory & Sales Management
-- ⚡🧠📄 **SmartFlash AI** – AI-Powered Flashcard Generator
+## 📌 Projects
+- 💰 **FinTrack** – Budgeting & Analytics App  
+- 🩺 **Illness Insights** – Symptom Analysis Platform  
 
+- 🏪 Store Management System – Inventory & Sales Management  
+🔗 [khoai.io](https://khoai.io)
+  
+- ⚡ **SmartFlash AI** – AI-Powered Flashcard Generator
