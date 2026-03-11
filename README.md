@@ -15,3 +15,4 @@
 🔗 [khoai.io](https://khoai.io)
   
 - ⚡ **SmartFlash AI** – AI-Powered Flashcard Generator
+🔗 [genflash-ai](https://genflash-ai.lovable.app)
