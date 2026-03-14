@@ -8,7 +8,7 @@
 💼 **LinkedIn**: [kainguyen104](https://www.linkedin.com/in/kainguyen104/)  
 
 ## 📌 Projects
-- 🏪 **Store Management System – Inventory & Sales Management**  
+- 🏪 **KhoAI – Inventory & Sales Management**  
   🔗 [khoai.io](https://khoai.io)
 
 - ⚡ **SmartFlash AI – AI-Powered Flashcard Generator**  
