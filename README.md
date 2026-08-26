@@ -11,6 +11,9 @@
 - 🏪 **KhoAI – Inventory & Sales Management**  
   🔗 [khoai.io](https://khoai.io)
 
+- 🍽️ **Food Image Calorie Estimator – AI Food Nutrition Classifier**  
+  🔗 [Streamlit App](https://calorieestimator.streamlit.app/) | [GitHub Page](https://malikscole.github.io/AI4all-Group-Project/)
+
 - ⚡ **SmartFlash AI – AI-Powered Flashcard Generator**  
   🔗 [genflash-ai](https://genflash-ai.lovable.app)
 
