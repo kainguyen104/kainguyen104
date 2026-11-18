@@ -14,6 +14,9 @@
 - 🍽️ **Food Image Calorie Estimator – AI Food Nutrition Classifier**  
   🔗 [Streamlit App](https://calorieestimator.streamlit.app/) | [GitHub Page](https://malikscole.github.io/AI4all-Group-Project/)
 
+- 🧮 **ModelQuest – Interactive Math Modeling Platform**  
+  🔗 [Website](https://www.modelquest.us) | [GitHub](https://github.com/kainguyen104/modelquest)
+
 - ⚡ **SmartFlash AI – AI-Powered Flashcard Generator**  
   🔗 [genflash-ai](https://genflash-ai.lovable.app)
 
